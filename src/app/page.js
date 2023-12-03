@@ -31,7 +31,7 @@ export default function Home() {
         <p className={`text-sm opacity-50`}>
           Console Log
         </p>
-        <p className={"text-sm"}>
+        <p className={`text-sm`}>
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
         </p>
       </div>
@@ -42,13 +42,13 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={"mb-3 text-2xl font-semibold"}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>
             Report{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={"m-0 max-w-[30ch] text-sm opacity-50"}>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Generate a report about the console log and outcome.
           </p>
         </a>
@@ -59,13 +59,13 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={"mb-3 text-2xl font-semibold"}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>
             Learn{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={"m-0 max-w-[30ch] text-sm opacity-50"}>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Learn about Next.js in an interactive course with&nbsp;quizzes!
           </p>
         </a>
@@ -76,13 +76,13 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={"mb-3 text-2xl font-semibold"}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>
             Templates{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={"m-0 max-w-[30ch] text-sm opacity-50"}>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Explore starter templates for Next.js.
           </p>
         </a>
@@ -93,13 +93,13 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={"mb-3 text-2xl font-semibold"}>
+          <h2 className={`mb-3 text-2xl font-semibold`}>
             Deploy{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
-          <p className={"m-0 max-w-[30ch] text-sm opacity-50"}>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
